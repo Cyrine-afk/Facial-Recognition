@@ -31,4 +31,4 @@ while True:
         break
 
 #releasing the video capture object
-captr.release()
+captr.release()   
